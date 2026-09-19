@@ -13,13 +13,10 @@ My Python beginner projects created while learning Python.
 
 - Variables
 - Data Types
-- Type Conversion
 - Input & Output
 - Arithmetic Operators
 - String Manipulation
-- String Methods
-- String Slicing
-- Comments
+- SStringMethods
 - Escape Sequences
 
 More beginner Python projects will be added soon.
