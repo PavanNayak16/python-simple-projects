@@ -16,7 +16,7 @@ My Python beginner projects created while learning Python.
 - Input & Output
 - Arithmetic Operators
 - String Manipulation
-- SStringMethods
+- StringMethods
 - Escape Sequences
 
 More beginner Python projects will be added soon.
