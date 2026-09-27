@@ -17,6 +17,15 @@ My Python beginner projects created while learning Python.
 - Uses type conversion
 - Displays a neat bill using \n and \t
 
+### 3. Shopping Cart & Bill Calculator
+
+- Takes customer name
+- Uses list, tuple, set and dictionary
+- Uses arithmetic operations
+- Uses comparison and logical operations
+- Uses membership operations
+- Calculates total and average price
+
 ## Python Topics Used
 
 - Variables
@@ -28,5 +37,12 @@ My Python beginner projects created while learning Python.
 - String Methods
 - String Slicing
 - Escape Sequences
+- - Comparison Operators
+- Logical Operators
+- Membership Operators
+- Lists
+- Tuples
+- Sets
+- Dictionaries
 
-More beginner Python projects will be added soon.
+More Python projects will be added soon.
